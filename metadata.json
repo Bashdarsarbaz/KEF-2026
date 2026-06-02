@@ -1,0 +1,6 @@
+{
+  "name": "KEF Registration & Attendance",
+  "description": "Kurdistan Education Forum (KEF) Registration, Badge Generation, QR Attendance Tracking, and Event Management System.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
